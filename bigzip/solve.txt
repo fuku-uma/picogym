@@ -1,0 +1,1 @@
+$ grep -R -i 'pico' big-zip-files/
